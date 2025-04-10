@@ -2,4 +2,4 @@ Coding is really fun and helps you solve problems in creative ways.
 
 I always enjoy making programs that can do cool stuff automatically.
 
-Its interesting how just few lines of code can change the hole outcome.
+It's interesting how just few lines of code can change the hole outcome.
